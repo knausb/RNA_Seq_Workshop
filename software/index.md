@@ -7,7 +7,7 @@ layout: default
 
 
 [PuTTY](http://www.putty.org/) or
-[ssh](http://www.openssh.com/)
+[OpenSSH](http://www.openssh.com/)
 for Windows, Mac and Unix probably already have this
 
 [edgeR](http://master.bioconductor.org/packages/release/bioc/html/edgeR.html "edgeR")
