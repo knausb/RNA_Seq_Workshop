@@ -7,10 +7,15 @@ layout: default
 
 [ssh](http://www.openssh.com/) for Windows, Mac and Unix probably already have this
 
+[edgeR](http://master.bioconductor.org/packages/release/bioc/html/edgeR.html "edgeR")
+
+[R](http://www.r-project.org/)
+
+
+---
+
 
 ## Cluster software
-
-[edgeR](http://master.bioconductor.org/packages/release/bioc/html/edgeR.html "edgeR")
 
 [cufflinks](https://github.com/cole-trapnell-lab/cufflinks "cufflinks")
 
