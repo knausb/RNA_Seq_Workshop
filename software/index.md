@@ -30,4 +30,11 @@ for Windows, Mac and Unix probably already have this
 [UMass HPC](http://wiki.umassrc.org/wiki/index.php/Main_Page)  
 
 
+---
 
+Example code block
+
+    echo "Hello world" > test.txt
+    cat test.txt 
+
+Creates a test file and prints to screen.
