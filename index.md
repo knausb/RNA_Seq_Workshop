@@ -8,5 +8,7 @@ layout: default
 
 A workshop intended to help people implement differential expression studies using RNA Seq
 
-
+Saturday, August 1st from 1:00 – 5:00 pm  
+APS Annual Meeting  
+Pasadena, CA  
 
