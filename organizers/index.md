@@ -19,7 +19,7 @@ USDA Agricultural Research Service
 [@ARS](http://www.ars.usda.gov/pandp/people/people.htm?personid=34621)
 
 
-### Brian J. Knaus
+**Brian J. Knaus**  
 Horticultural Crops Research Unit  
 USDA Agricultural Research Service  
 [@GitHub](https://github.com/knausb)
