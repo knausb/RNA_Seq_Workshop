@@ -6,7 +6,18 @@ layout: default
 
 ## RNA Seq Workshop Questionnaire
 
-A workshop intended to help people implement differential expression studies using RNA Seq
+
+Do you feel comfortable working at the command line on your computer?
+
+
+Do you feel comfortable interacting with a remote Linux server?
+
+
+Do you feel comfortable using the R command line?
+
+
+Do you feel you can distinguish biological replicates from technical replicates?
+
 
 
 
